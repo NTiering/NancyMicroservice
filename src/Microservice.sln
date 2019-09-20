@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Microservice", "Microservice\Microservice.csproj", "{DFE036D4-8BC0-4997-B153-D9E457EEB476}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Microservice.Tests", "Microservice.Tests\Microservice.Tests.csproj", "{948D504C-9F96-47CD-B3FB-50BB36FE724B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFE036D4-8BC0-4997-B153-D9E457EEB476}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFE036D4-8BC0-4997-B153-D9E457EEB476}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFE036D4-8BC0-4997-B153-D9E457EEB476}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFE036D4-8BC0-4997-B153-D9E457EEB476}.Release|Any CPU.Build.0 = Release|Any CPU
+		{948D504C-9F96-47CD-B3FB-50BB36FE724B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{948D504C-9F96-47CD-B3FB-50BB36FE724B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{948D504C-9F96-47CD-B3FB-50BB36FE724B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{948D504C-9F96-47CD-B3FB-50BB36FE724B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {904B2BAF-CDE2-4DE5-9A91-A3C602B2B8D3}
+	EndGlobalSection
+EndGlobal
